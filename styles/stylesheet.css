@@ -1,11 +1,4 @@
 
-<style>
-
-.clearfix:after {
-  content: "";    
-  display: block;    
-  clear: both; 
-}
 
 #main {
   margin: 0;
@@ -26,8 +19,7 @@ header {
       margin-left: 0em;
       padding-top: .2em;
       padding-left: 0px;
-      text-align: center
-      text-decoration: none
+      text-decoration: none;
 }
 
 header h1 {
