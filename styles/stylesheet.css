@@ -1,0 +1,180 @@
+
+<style>
+
+.clearfix:after {
+  content: "";    
+  display: block;    
+  clear: both; 
+}
+
+#main {
+  margin: 0;
+  padding: 0;
+  background-color: #e8e785;
+}
+
+header {
+      font-family: "Archivo Black", sans-serif;
+      width: 100%;
+      max-width: 1200px;
+      min-width: 400px;
+      font-size: 5vmin;
+      color: black;
+      background-color: #e8e7e5;
+      margin-top: .2em;
+      margin-bottom: .2em;
+      margin-left: 0em;
+      padding-top: .2em;
+      padding-left: 0px;
+      text-align: center
+      text-decoration: none
+}
+
+header h1 {
+  margin: 0;
+  padding: 0;
+  font-family: "Allerta Stencil", sans-serif;
+}
+
+header h5 {
+  clear: both;
+  width: 100%;
+  margin-top: 0;
+  margin-bottom: .5em;
+  padding-top: .1em;
+  padding-bottom: .15em;
+  padding-left: .7em;
+  font-family: "News Cycle", sans-serif;
+  background-color: #34707c;
+  color: white;
+  
+}
+
+    .main-nav {
+      width: 100%
+    }
+    .main-nav ul li {
+      width: 10%;
+      list-style-type: none;
+      float: left;
+      display: inline-flex;
+      padding: .4em
+    }
+    .main-nav ul li first-child {
+      border-left: none;
+    }
+    .main-nav ul li a {
+      color: dimgrey;
+      text-decoration: none;
+      font-family: "Archivo", sans-serif;
+      padding: 0 .2em .3em;
+      text-align: center;
+      width: 100%;
+      font-size: 4vmin;
+      height: 2.5vmin
+    }
+
+
+#main {
+  margin: 0;
+  padding: 1em;
+  background-color: #e8e7e5;
+}
+
+
+section {
+  border: 1px solid grey;
+  background-color: #e8e7e5;
+  padding: 2vmin;
+  width: 40vmin;
+  height: auto;
+  margin-left: 0vmin;
+  margin-top: 0vmin;
+  text-align: center;
+  text-decoration: none;
+}
+
+
+a {
+  text-decoration: none;
+  text-align: center;
+  background-color: #e8e7e5;
+}
+
+section img {
+  width: 100%;
+  height: auto;
+}
+
+section h4 {
+      font-family: "Archivo Black", sans-serif;
+      font-size: 4.5vmin;
+      color: black;
+      background-color: #e8e7e5;
+      margin-top: .2em;
+      margin-bottom: .2em;
+      text-decoration: none
+}
+
+section h5 {
+      font-family: "Archivo", sans-serif;
+      font-size: 4.0vmin;
+      color: #34707c;
+      margin-top: .2em;
+      margin-bottom: .2em;   
+}
+
+section p {
+      font-family: "Archivo Narrow", sans-serif;
+      font-size: 3vmin;
+      color: black;
+      word-wrap: break-word;
+      margin-top: .2em;
+      margin-bottom: .2em;   
+}
+
+.apple, .coaster, .bowl, .brush {
+    float: left;
+}
+
+.case {
+  clear: both; 
+}
+
+.case, .cover, .hotpad, .pear {
+  float: left;
+}
+
+.shaker {
+  clear: both;
+}
+
+.shaker, .whisk {
+  float: left;
+}
+
+footer {
+  clear: both;
+  font-family: "Archivo", sans-serif;
+  color: black;
+  padding-top: .3em;
+  font-size: 1.2em;
+}
+
+footer nav ul li {
+  float: left;
+  font-family: "Archivo", sans-serif;
+  font-size: 1em;
+  padding-left: 1em;
+  padding-bottom: 4em;
+  list-style-type: none;
+}
+
+footer nav ul li a {
+  color: black;
+}
+
+
+
+
+
